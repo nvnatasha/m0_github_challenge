@@ -10,3 +10,4 @@
 ## Directions
 
 Describe the steps to connect a local repository to a remote repository in the `github_steps.md` file.
+Establish a connection by creating your going into the terminal and creating the connection with the code git push -u origin main
